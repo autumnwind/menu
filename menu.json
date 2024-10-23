@@ -1,1 +1,17 @@
+{"Date": "20241023","KitchenNames": [
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"staplefood":"白飯",
+"maincourse":"蜜香腿排",
+"secondarycourse1":"豆薯炒三絲",
+"secondarycourse2":"阿呆滷味",
+"vegetable":"鵝白菜",
+"soup":"三絲粉絲湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"staplefood":"白飯",
+"maincourse":"鹽水雞",
+"secondarycourse1":"蒜香黑干",
+"secondarycourse2":"鮮瓜總匯",
+"vegetable":"綠豆芽",
+"soup":"肉骨茶湯",
+"other1":"豆漿"
+}}
 ]}
