@@ -1,18 +1,18 @@
 {"Date": "20241126","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"五穀飯",
-"MainCourse":"馬鈴薯燒肉",
-"SecondaryCourse1":"淋汁貢丸",
-"SecondaryCourse2":"高麗四季海味",
-"Vegetable":"豆芽菜",
-"Soup":"義式濃湯",
-"Other1":"蕃茄"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"法式培根燉飯",
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"法式培根燉飯",
 "MainCourse":"唐揚雞",
 "SecondaryCourse1":"雜菜拌粉絲",
 "SecondaryCourse2":"部隊鍋",
 "Vegetable":"青江菜",
 "Soup":"韓式海帶湯",
 "Other1":"小番茄"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"五穀飯",
+"MainCourse":"馬鈴薯燒肉",
+"SecondaryCourse1":"淋汁貢丸",
+"SecondaryCourse2":"高麗四季海味",
+"Vegetable":"豆芽菜",
+"Soup":"義式濃湯",
+"Other1":"蕃茄"
 }}
 ]}
