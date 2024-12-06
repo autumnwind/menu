@@ -1,5 +1,13 @@
 {"Date": "20241206","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"肉鬆炒飯",
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"糙米飯",
+"MainCourse":"和風胡麻肉片",
+"SecondaryCourse1":"奶油培根白菜",
+"SecondaryCourse2":"柴香花枝丸",
+"Vegetable":"有機小松菜",
+"Soup":"日式豆腐湯",
+"Other1":"豆漿"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"肉鬆炒飯",
 "MainCourse":"日式炸豬排",
 "SecondaryCourse1":"雙色燒賣",
 "SecondaryCourse2":"玉米四色",
