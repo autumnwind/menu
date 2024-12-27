@@ -1,16 +1,16 @@
 {"Date": "20241227","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"胚芽飯",
-"MainCourse":"銀蘿燉肉",
-"SecondaryCourse1":"麻婆豆腐",
-"SecondaryCourse2":"大瓜總匯",
-"Vegetable":"有機翠白菜",
-"Soup":"韓式大醬湯"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"古早味炒麵",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"古早味炒麵",
 "MainCourse":"胖老爹炸雞腿",
 "SecondaryCourse1":"奶香銀絲卷",
 "SecondaryCourse2":"蜜糖雙結",
 "Vegetable":"油菜",
 "Soup":"芋香西米露"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"胚芽飯",
+"MainCourse":"銀蘿燉肉",
+"SecondaryCourse1":"麻婆豆腐",
+"SecondaryCourse2":"大瓜總匯",
+"Vegetable":"有機翠白菜",
+"Soup":"韓式大醬湯"
 }}
 ]}
