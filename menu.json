@@ -1,16 +1,16 @@
 {"Date": "20251015","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"白飯",
-"MainCourse":"塔香排骨",
-"SecondaryCourse1":"洋蔥炒蛋",
-"SecondaryCourse2":"芝麻拌雙絲",
-"Vegetable":"油菜",
-"Soup":"清燉大瓜湯"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"白飯",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"白飯",
 "MainCourse":"BBQ雞翅",
 "SecondaryCourse1":"洋蔥燴炒",
 "SecondaryCourse2":"大黑干什錦",
 "Vegetable":"鵝白菜",
 "Soup":"鮮筍什錦湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"白飯",
+"MainCourse":"塔香排骨",
+"SecondaryCourse1":"洋蔥炒蛋",
+"SecondaryCourse2":"芝麻拌雙絲",
+"Vegetable":"油菜",
+"Soup":"清燉大瓜湯"
 }}
 ]}
