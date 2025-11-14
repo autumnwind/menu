@@ -1,5 +1,12 @@
 {"Date": "20251114","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"眷村炸醬麵",
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"古早味炒麵",
+"MainCourse":"檸檬烤雞翅",
+"SecondaryCourse1":"蒜汁蘿蔔糕",
+"SecondaryCourse2":"銀芽熱炒",
+"Vegetable":"有機高麗菜",
+"Soup":"綠豆湯"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"眷村炸醬麵",
 "MainCourse":"蜜糖雞翅",
 "SecondaryCourse1":"港式蘿蔔糕",
 "SecondaryCourse2":"麻婆豆腐",
@@ -12,12 +19,5 @@
 "SecondaryCourse2":"西點丹麥",
 "Vegetable":"有機黑葉白菜",
 "Soup":"鮮筍雞湯"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"古早味炒麵",
-"MainCourse":"檸檬烤雞翅",
-"SecondaryCourse1":"蒜汁蘿蔔糕",
-"SecondaryCourse2":"銀芽熱炒",
-"Vegetable":"有機高麗菜",
-"Soup":"綠豆湯"
 }}
 ]}
