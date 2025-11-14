@@ -1,5 +1,12 @@
 {"Date": "20251114","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"古早味炒麵",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"台南擔擔麵",
+"MainCourse":"鹽酥雞",
+"SecondaryCourse1":"蛋酥高麗菜",
+"SecondaryCourse2":"西點丹麥",
+"Vegetable":"有機黑葉白菜",
+"Soup":"鮮筍雞湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"古早味炒麵",
 "MainCourse":"檸檬烤雞翅",
 "SecondaryCourse1":"蒜汁蘿蔔糕",
 "SecondaryCourse2":"銀芽熱炒",
