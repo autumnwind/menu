@@ -1,5 +1,12 @@
 {"Date": "20251126","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"白飯",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"小米飯",
+"MainCourse":"燒烤雞翅",
+"SecondaryCourse1":"高麗火鍋煲",
+"SecondaryCourse2":"田園玉米",
+"Vegetable":"小白菜",
+"Soup":"菇菇蛋花湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"白飯",
 "MainCourse":"香菇雞",
 "SecondaryCourse1":"芹香三絲",
 "SecondaryCourse2":"紅絲炒蛋",
