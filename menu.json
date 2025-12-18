@@ -1,5 +1,12 @@
 {"Date": "20251218","KitchenNames": [
-{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"招牌肉燥飯",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"紫米飯",
+"MainCourse":"鐵板豬柳",
+"SecondaryCourse1":"柴香花枝丸",
+"SecondaryCourse2":"奶焗培根洋芋",
+"Vegetable":"大陸妹",
+"Soup":"三絲粉絲湯"
+}}
+,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"招牌肉燥飯",
 "MainCourse":"椒鹽魚丁",
 "SecondaryCourse1":"肉絲高麗菜",
 "SecondaryCourse2":"醬燒小肉包",
@@ -12,12 +19,5 @@
 "SecondaryCourse2":"番茄玉米佐肉燥",
 "Vegetable":"蚵仔白菜",
 "Soup":"沙茶肉絲羹湯"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"紫米飯",
-"MainCourse":"鐵板豬柳",
-"SecondaryCourse1":"柴香花枝丸",
-"SecondaryCourse2":"奶焗培根洋芋",
-"Vegetable":"大陸妹",
-"Soup":"三絲粉絲湯"
 }}
 ]}
