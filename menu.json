@@ -1,23 +1,16 @@
-{"Date": "20251218","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"紫米飯",
-"MainCourse":"鐵板豬柳",
-"SecondaryCourse1":"柴香花枝丸",
-"SecondaryCourse2":"奶焗培根洋芋",
-"Vegetable":"大陸妹",
-"Soup":"三絲粉絲湯"
+{"Date": "20251219","KitchenNames": [
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉絲炒麵",
+"MainCourse":"轟炸雞腿",
+"SecondaryCourse1":"紅油炒手",
+"SecondaryCourse2":"豚香蒲瓜",
+"Vegetable":"有機小松菜",
+"Soup":"冬至鹹湯圓"
 }}
-,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"招牌肉燥飯",
-"MainCourse":"椒鹽魚丁",
-"SecondaryCourse1":"肉絲高麗菜",
-"SecondaryCourse2":"醬燒小肉包",
-"Vegetable":"小白菜",
-"Soup":"珍珠冬瓜茶"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"大麥仁飯",
-"MainCourse":"塔香肉片",
-"SecondaryCourse1":"冬瓜扒蝦球",
-"SecondaryCourse2":"番茄玉米佐肉燥",
-"Vegetable":"蚵仔白菜",
-"Soup":"沙茶肉絲羹湯"
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"嘉義雞肉飯",
+"MainCourse":"塔香鹹酥雞",
+"SecondaryCourse1":"黑糖馬拉糕",
+"SecondaryCourse2":"蕃茄滑蛋",
+"Vegetable":"油菜",
+"Soup":"冬至鹹湯圓"
 }}
 ]}
