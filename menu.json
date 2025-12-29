@@ -1,1 +1,16 @@
+{"Date": "20251229","KitchenNames": [
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"糙米飯",
+"MainCourse":"泰式燒細腐",
+"SecondaryCourse1":"洋蔥三色炒蛋",
+"SecondaryCourse2":"泡菜粉絲煲",
+"Vegetable":"有機荷葉白菜",
+"Soup":"蘿蔔湯"
+}}
+,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"胚米飯",
+"MainCourse":"蕃茄炒蛋",
+"SecondaryCourse1":"咕咾油腐",
+"SecondaryCourse2":"鮮蔬炒寬粉",
+"Vegetable":"小白菜",
+"Soup":"豆皮蘿蔔湯"
+}}
 ]}
