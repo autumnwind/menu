@@ -1,5 +1,12 @@
 {"Date": "20260115","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"小米飯",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"台南擔擔麵",
+"MainCourse":"卡拉雞排",
+"SecondaryCourse1":"大阪高麗菜",
+"SecondaryCourse2":"鮮肉包",
+"Vegetable":"炒菠菜",
+"Soup":"四神風味湯"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"小米飯",
 "MainCourse":"蔥燒里肌排",
 "SecondaryCourse1":"香烤雞塊",
 "SecondaryCourse2":"田園四色",
