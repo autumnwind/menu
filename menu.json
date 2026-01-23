@@ -1,12 +1,5 @@
 {"Date": "20260123","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉絲蛋炒飯",
-"MainCourse":"檸檬雞翅",
-"SecondaryCourse1":"蒜汁肉圓",
-"SecondaryCourse2":"滷味拼盤",
-"Vegetable":"有機皺葉白菜",
-"Soup":"榨菜肉絲湯"
-}}
-,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"白米飯",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"白米飯",
 "MainCourse":"燒烤雞翅",
 "SecondaryCourse1":"玉米肉末",
 "SecondaryCourse2":"肉絲高麗菜",
@@ -19,5 +12,12 @@
 "SecondaryCourse2":"南瓜雙粉",
 "Vegetable":"菠菜",
 "Soup":"紅豆麥奶"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉絲蛋炒飯",
+"MainCourse":"檸檬雞翅",
+"SecondaryCourse1":"蒜汁肉圓",
+"SecondaryCourse2":"滷味拼盤",
+"Vegetable":"有機皺葉白菜",
+"Soup":"榨菜肉絲湯"
 }}
 ]}
