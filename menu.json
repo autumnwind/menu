@@ -1,5 +1,12 @@
 {"Date": "20260123","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉絲蛋炒飯",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"義大利肉醬麵",
+"MainCourse":"日式親子丼",
+"SecondaryCourse1":"草莓銀絲卷",
+"SecondaryCourse2":"南瓜雙粉",
+"Vegetable":"菠菜",
+"Soup":"紅豆麥奶"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉絲蛋炒飯",
 "MainCourse":"檸檬雞翅",
 "SecondaryCourse1":"蒜汁肉圓",
 "SecondaryCourse2":"滷味拼盤",
@@ -12,12 +19,5 @@
 "SecondaryCourse2":"肉絲高麗菜",
 "Vegetable":"有機青松菜",
 "Soup":"紫菜豆腐湯"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"義大利肉醬麵",
-"MainCourse":"日式親子丼",
-"SecondaryCourse1":"草莓銀絲卷",
-"SecondaryCourse2":"南瓜雙粉",
-"Vegetable":"菠菜",
-"Soup":"紅豆麥奶"
 }}
 ]}
