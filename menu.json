@@ -1,23 +1,16 @@
-{"Date": "20260305","KitchenNames": [
-{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"高麗菜炒飯",
-"MainCourse":"香酥豬排",
-"SecondaryCourse1":"台北蘿蔔燒",
-"SecondaryCourse2":"豆沙包",
-"Vegetable":"鵝白菜",
-"Soup":"竹筍豬血湯"
+{"Date": "20260306","KitchenNames": [
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉絲蛋炒飯",
+"MainCourse":"卡啦雞排",
+"SecondaryCourse1":"馬拉糕",
+"SecondaryCourse2":"脆炒結頭菜",
+"Vegetable":"有機黑葉白菜",
+"Soup":"肉骨茶湯"
 }}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"小米飯",
-"MainCourse":"紅燒雞翅",
-"SecondaryCourse1":"五更豆腐",
-"SecondaryCourse2":"野菇雙花",
-"Vegetable":"青江菜",
-"Soup":"玉米濃湯"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"胚芽飯",
-"MainCourse":"蒜泥白肉",
-"SecondaryCourse1":"番茄炒蛋",
-"SecondaryCourse2":"毛豆干丁",
-"Vegetable":"福山萵苣",
-"Soup":"筍片雞湯"
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"客家炒粄條",
+"MainCourse":"日式炸豬排",
+"SecondaryCourse1":"港式燒賣",
+"SecondaryCourse2":"鮮菇大白菜",
+"Vegetable":"菠菜",
+"Soup":"海芽蛋花湯"
 }}
 ]}
