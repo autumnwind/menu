@@ -1,12 +1,5 @@
 {"Date": "20260312","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"糙米飯",
-"MainCourse":"卡啦雞排",
-"SecondaryCourse1":"紅燒洋芋",
-"SecondaryCourse2":"麻油高麗",
-"Vegetable":"油菜",
-"Soup":"香菇雞湯"
-}}
-,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"台式炸醬麵",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"台式炸醬麵",
 "MainCourse":"無骨香雞排",
 "SecondaryCourse1":"小瓜混炒",
 "SecondaryCourse2":"銀絲卷",
@@ -19,5 +12,12 @@
 "SecondaryCourse2":"大白菜燴炒",
 "Vegetable":"鵝白菜",
 "Soup":"柴魚味噌湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"糙米飯",
+"MainCourse":"卡啦雞排",
+"SecondaryCourse1":"紅燒洋芋",
+"SecondaryCourse2":"麻油高麗",
+"Vegetable":"油菜",
+"Soup":"香菇雞湯"
 }}
 ]}
