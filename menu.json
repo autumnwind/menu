@@ -1,5 +1,12 @@
 {"Date": "20260410","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"嘉義雞肉飯",
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"五目炊飯",
+"MainCourse":"鹽酥魚丁",
+"SecondaryCourse1":"台式白菜滷",
+"SecondaryCourse2":"雙色燒賣",
+"Vegetable":"有機綠豆芽",
+"Soup":"韓式大醬湯"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"嘉義雞肉飯",
 "MainCourse":"酥炸豬排",
 "SecondaryCourse1":"鮮味水餃",
 "SecondaryCourse2":"培根高麗菜",
@@ -12,12 +19,5 @@
 "SecondaryCourse2":"大阪高麗菜",
 "Vegetable":"有機黑葉白菜",
 "Soup":"海芽番茄湯"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"五目炊飯",
-"MainCourse":"鹽酥魚丁",
-"SecondaryCourse1":"台式白菜滷",
-"SecondaryCourse2":"雙色燒賣",
-"Vegetable":"有機綠豆芽",
-"Soup":"韓式大醬湯"
 }}
 ]}
