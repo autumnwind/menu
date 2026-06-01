@@ -1,12 +1,5 @@
 {"Date": "20260601","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"多穀飯",
-"副菜":"彩虹玉米炒蛋",
-"SecondaryCourse1":"鐵板百頁",
-"SecondaryCourse2":"開陽野菇白菜",
-"Vegetable":"油菜",
-"Soup":"藥膳葫瓜湯"
-}}
-,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"胚米飯",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"胚米飯",
 "MainCourse":"紅絲炒蛋",
 "SecondaryCourse1":"蜜汁豆干",
 "SecondaryCourse2":"蒲瓜什錦",
@@ -19,5 +12,12 @@
 "SecondaryCourse2":"味噌燉煮",
 "Vegetable":"有機荷葉白菜",
 "Soup":"竹筍湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"多穀飯",
+"副菜":"彩虹玉米炒蛋",
+"SecondaryCourse1":"鐵板百頁",
+"SecondaryCourse2":"開陽野菇白菜",
+"Vegetable":"油菜",
+"Soup":"藥膳葫瓜湯"
 }}
 ]}
