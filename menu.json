@@ -1,16 +1,16 @@
 {"Date": "20260605","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"蒜香炒麵",
-"MainCourse":"鹽酥雞",
-"SecondaryCourse1":"生煎包",
-"SecondaryCourse2":"塔香鮑菇洋芋",
-"Vegetable":"有機小松菜",
-"Soup":"鳳梨雞湯"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"醬汁雞粒炒飯",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"醬汁雞粒炒飯",
 "MainCourse":"鐵路肉排",
 "SecondaryCourse1":"香綿芋泥包",
 "SecondaryCourse2":"田園四色",
 "Vegetable":"油菜",
 "Soup":"肉骨茶湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"蒜香炒麵",
+"MainCourse":"鹽酥雞",
+"SecondaryCourse1":"生煎包",
+"SecondaryCourse2":"塔香鮑菇洋芋",
+"Vegetable":"有機小松菜",
+"Soup":"鳳梨雞湯"
 }}
 ]}
