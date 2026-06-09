@@ -1,10 +1,18 @@
 {"Date": "20260609","KitchenNames": [
-{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"燕麥飯",
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"糙米飯",
+"MainCourse":"麻油鮑菇雞",
+"SecondaryCourse1":"塔香燉肉醬",
+"SecondaryCourse2":"蜜汁海苔丸",
+"Vegetable":"青江菜",
+"Soup":"海結白菜排骨湯",
+"Other1":"小番茄"
+}}
+,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"燕麥飯",
 "MainCourse":"壽喜肉片",
-"SecondaryCourse1":"海帶三絲",
+"SecondaryCourse1":"海帶三絲1",
 "SecondaryCourse2":"蛋酥高麗",
 "Vegetable":"油菜",
-"Soup":"四神風味湯",
+"Soup":"四神風味湯1",
 "Other1":"小番茄"
 }}
 ,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"五穀飯",
@@ -14,13 +22,5 @@
 "Vegetable":"小白菜",
 "Soup":"高麗鮮菇湯",
 "Other1":"蕃茄"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"糙米飯",
-"MainCourse":"麻油鮑菇雞",
-"SecondaryCourse1":"塔香燉肉醬",
-"SecondaryCourse2":"蜜汁海苔丸",
-"Vegetable":"青江菜",
-"Soup":"海結白菜排骨湯",
-"Other1":"小番茄"
 }}
 ]}
