@@ -1,1 +1,26 @@
+{"Date": "20260901","KitchenNames": [
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"燕麥飯",
+"MainCourse":"日式咖哩雞",
+"MainCourse":"海鮮嫩蛋",
+"SecondaryCourse2":"椒鹽魚丸",
+"Vegetable":"小白菜",
+"Soup":"味噌湯",
+"Other1":"香蕉"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"燕麥飯",
+"MainCourse":"日式咖哩雞",
+"MainCourse":"海鮮嫩蛋(蒸)",
+"SecondaryCourse2":"椒鹽魷魚丸",
+"Vegetable":"高麗菜",
+"Soup":"味噌湯",
+"Other1":"香蕉"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"五穀飯",
+"MainCourse":"日式咖哩雞",
+"SecondaryCourse1":"海鮮嫩蛋",
+"SecondaryCourse2":"椒鹽魷魚丸",
+"Vegetable":"空心菜",
+"Soup":"味噌湯",
+"Other1":"香蕉"
+}}
 ]}
