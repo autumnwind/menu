@@ -1,23 +1,16 @@
-{"Date": "20260903","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"紫米飯",
-"MainCourse":"美味雞翅",
-"SecondaryCourse1":"油蔥肉燥蛋",
-"SecondaryCourse2":"芋香白菜滷",
-"Vegetable":"福山萵苣",
-"Soup":"珍珠麥奶"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"糙米飯",
-"MainCourse":"美味雞翅",
-"MainCourse":"油蔥肉燥蛋",
-"SecondaryCourse2":"芋香白菜滷",
-"Vegetable":"青江菜",
-"Soup":"無咖啡因珍奶"
-}}
-,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"高纖飯",
-"MainCourse":"美味雞翅",
-"MainCourse":"油蔥肉燥蛋",
-"SecondaryCourse2":"芋香Vegetable滷",
+{"Date": "20260904","KitchenNames": [
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"燕麥飯",
+"MainCourse":"鐵路豬排",
+"SecondaryCourse1":"椒麻雞",
+"SecondaryCourse2":"泰式河粉",
 "Vegetable":"油菜",
-"Soup":"無咖啡因珍奶"
+"Soup":"台中好菇湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"多榖飯",
+"MainCourse":"鐵路豬排(滷)",
+"MainCourse":"椒麻雞(酸甜)",
+"SecondaryCourse2":"泰式河粉",
+"Vegetable":"快炒青菜",
+"Soup":"台中好菇湯"
 }}
 ]}
