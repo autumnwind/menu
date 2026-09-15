@@ -1,5 +1,12 @@
 {"Date": "20260915","KitchenNames": [
-{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"海苔芝麻飯",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"海苔芝麻飯",
+"MainCourse":"菇菇雞很芒",
+"SecondaryCourse1":"番茄玉米肉燥",
+"Vegetable":"小白菜",
+"Soup":"味噌鮮筍湯",
+"附餐":"百香果"
+}}
+,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"海苔芝麻飯",
 "MainCourse":"菇菇雞很芒",
 "SecondaryCourse1":"番茄玉米肉燥",
 "Vegetable":"小白菜",
@@ -12,12 +19,5 @@
 "Vegetable":"XO醬高麗菜",
 "Soup":"酸辣湯",
 "附餐":"香蕉"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"海苔芝麻飯",
-"MainCourse":"菇菇雞很芒",
-"SecondaryCourse1":"番茄玉米肉燥",
-"Vegetable":"小白菜",
-"Soup":"味噌鮮筍湯",
-"附餐":"百香果"
 }}
 ]}
