@@ -5,4 +5,16 @@
 "Vegetable":"有機空心菜",
 "Soup":"蘿蔔丸片湯"
 }}
+,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"胚米飯",
+"MainCourse":"如意彩絲1",
+"SecondaryCourse1":"翡翠田園嫩蛋",
+"Vegetable":"小白菜2",
+"Soup":"蘿蔔丸片湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"元氣香Q炊飯",
+"MainCourse":"如意彩絲(蔬)",
+"SecondaryCourse1":"翡翠田園嫩蛋(蒸X)",
+"Vegetable":"蚵仔白菜",
+"Soup":"蘿蔔丸片湯(X)"
+}}
 ]}
