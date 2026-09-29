@@ -1,12 +1,5 @@
 {"Date": "20260929","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"五穀飯",
-"MainCourse":"雞肉親子丼",
-"SecondaryCourse1":"螞蟻上樹",
-"Vegetable":"有機白莧菜",
-"Soup":"金針味噌排骨湯",
-"附餐":"香蕉"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉醬義大利麵(筆)",
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"肉醬義大利麵(筆)",
 "MainCourse":"香草雞翅",
 "SecondaryCourse1":"香料馬鈴薯",
 "Vegetable":"蚵仔白菜(P)",
@@ -17,6 +10,13 @@
 "MainCourse":"雞肉親子丼",
 "SecondaryCourse1":"螞蟻上樹2",
 "Vegetable":"油菜2",
+"Soup":"金針味噌排骨湯",
+"附餐":"香蕉"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"五穀飯",
+"MainCourse":"雞肉親子丼",
+"SecondaryCourse1":"螞蟻上樹",
+"Vegetable":"有機白莧菜",
 "Soup":"金針味噌排骨湯",
 "附餐":"香蕉"
 }}
