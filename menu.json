@@ -1,5 +1,11 @@
 {"Date": "20261028","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"五穀飯",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"嘉義雞肉飯",
+"MainCourse":"鐵板豬排",
+"SecondaryCourse1":"雙色燒賣",
+"Vegetable":"空心菜",
+"Soup":"芋香西米露"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"五穀飯",
 "MainCourse":"蒜香奶油豬柳",
 "SecondaryCourse1":"義式炒蛋",
 "Vegetable":"XO醬拌時蔬",
@@ -10,11 +16,5 @@
 "SecondaryCourse1":"佛跳牆2",
 "Vegetable":"油菜4",
 "Soup":"羅宋肉片湯"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"嘉義雞肉飯",
-"MainCourse":"鐵板豬排",
-"SecondaryCourse1":"雙色燒賣",
-"Vegetable":"空心菜",
-"Soup":"芋香西米露"
 }}
 ]}
