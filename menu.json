@@ -1,11 +1,5 @@
 {"Date": "20261105","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"燕麥飯",
-"MainCourse":"泡菜燒肉",
-"SecondaryCourse1":"彩燴翅腿",
-"Vegetable":"鵝白菜",
-"Soup":"海芽豆腐湯"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"多穀飯",
+{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"多穀飯",
 "MainCourse":"烘烤雞翅",
 "SecondaryCourse1":"打拋肉片",
 "Vegetable":"脆炒青菜",
@@ -16,5 +10,11 @@
 "SecondaryCourse1":"宜蘭西魯肉",
 "Vegetable":"福山萵苣6",
 "Soup":"九份芋圓湯"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"燕麥飯",
+"MainCourse":"泡菜燒肉",
+"SecondaryCourse1":"彩燴翅腿",
+"Vegetable":"鵝白菜",
+"Soup":"海芽豆腐湯"
 }}
 ]}
