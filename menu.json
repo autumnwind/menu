@@ -1,5 +1,11 @@
 {"Date": "20261105","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"燕麥飯",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"肉鬆炒飯1",
+"MainCourse":"香酥雞排",
+"SecondaryCourse1":"宜蘭西魯肉",
+"Vegetable":"福山萵苣6",
+"Soup":"九份芋圓湯"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"燕麥飯",
 "MainCourse":"泡菜燒肉",
 "SecondaryCourse1":"彩燴翅腿",
 "Vegetable":"鵝白菜",
