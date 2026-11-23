@@ -1,5 +1,11 @@
 {"Date": "20261123","KitchenNames": [
-{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"五穀飯",
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"糙米飯",
+"MainCourse":"香菇蒸蛋",
+"SecondaryCourse1":"沙茶滷味",
+"Vegetable":"有機黑葉白菜",
+"Soup":"芹香蘿蔔湯"
+}}
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"五穀飯",
 "MainCourse":"滷蛋拼地瓜",
 "SecondaryCourse1":"鐵板干片",
 "Vegetable":"蚵仔白菜",
@@ -10,11 +16,5 @@
 "SecondaryCourse1":"玉米炒蛋2",
 "Vegetable":"空心菜2",
 "Soup":"黃瓜素丸湯"
-}}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"糙米飯",
-"MainCourse":"香菇蒸蛋",
-"SecondaryCourse1":"沙茶滷味",
-"Vegetable":"有機黑葉白菜",
-"Soup":"芹香蘿蔔湯"
 }}
 ]}
