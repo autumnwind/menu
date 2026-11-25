@@ -1,5 +1,11 @@
 {"Date": "20261125","KitchenNames": [
-{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"招牌滷肉飯",
+{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"小米飯",
+"MainCourse":"蒜滷腿排",
+"SecondaryCourse1":"豬血豆腐煲",
+"Vegetable":"青江菜4",
+"Soup":"時蔬肉片湯"
+}}
+,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"招牌滷肉飯",
 "MainCourse":"蜜糖雞腿排",
 "SecondaryCourse1":"香烤蔥卷",
 "Vegetable":"鵝白菜",
@@ -10,11 +16,5 @@
 "SecondaryCourse1":"針相大白",
 "Vegetable":"柴香青江菜",
 "Soup":"人蔘雞湯"
-}}
-,{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"小米飯",
-"MainCourse":"蒜滷腿排",
-"SecondaryCourse1":"豬血豆腐煲",
-"Vegetable":"青江菜4",
-"Soup":"時蔬肉片湯"
 }}
 ]}
