@@ -1,20 +1,15 @@
-{"Date": "20261126","KitchenNames": [
-{"KitchenName":"全富食品有限公司","MemuList":{"StapleFood":"茄汁通心麵1",
-"MainCourse":"海陸雙拼",
-"SecondaryCourse1":"花椰燉烤3",
-"Vegetable":"高麗菜2",
-"Soup":"南瓜濃湯2"
+{"Date": "20261127","KitchenNames": [
+{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"白飯",
+"MainCourse":"鐵路肉排",
+"SecondaryCourse1":"韓式炒年糕",
+"Vegetable":"炒雙花菜",
+"Soup":"什錦菇菇湯"
 }}
-,{"KitchenName":"金星餐盒食品有限公司","MemuList":{"StapleFood":"燕麥飯",
-"MainCourse":"夜市鹹酥雞",
-"SecondaryCourse1":"味噌燉煮",
-"Vegetable":"油菜",
-"Soup":"大滷湯"
-}}
-,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"燕麥飯",
-"MainCourse":"壽喜燒肉1",
-"SecondaryCourse1":"莎莎洋芋",
-"Vegetable":"鮮炒高麗菜",
-"Soup":"玉米濃湯"
+,{"KitchenName":"昱品美食股份有限公司","MemuList":{"StapleFood":"咖哩肉絲炒飯1",
+"MainCourse":"卡啦大雞腿",
+"SecondaryCourse1":"沙嗲滷味2",
+"Vegetable":"炒小松菜",
+"Soup":"肉骨茶湯4",
+"附餐":"豆漿"
 }}
 ]}
